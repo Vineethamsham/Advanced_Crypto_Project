@@ -120,7 +120,7 @@ This technique improves upon the original DES, offering a **168-bit key length**
 
 - Vineeth Amsham   
 
-📎 [Project Report PDF](https://github.com/Vineethamsham/Advanced_Crypto_Project/blob/main/Advanced_Cryptography_Final_Report.docx)
+📎 [Project Report PDF](https://github.com/Vineethamsham/Advanced_Crypto_Project/blob/main/CS7530_W01_Advanced_Cryptography_Group_4_Project_Final_Report.pdf))
 
 ---
 
